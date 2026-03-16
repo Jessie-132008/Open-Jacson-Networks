@@ -60,7 +60,7 @@ print("----------------------------------------------------------------------")
 ~~~
 
 ## Output
-
+![image](https://github.com/Jessie-132008/Open-Jacson-Networks/blob/main/Screenshot%202026-03-16%20150632.png)
 ## Result
   Thus, The average number of materials in the sysytem and conveyor,waiting time of the each maetrial in the system and conveyor is found successfully.
   
